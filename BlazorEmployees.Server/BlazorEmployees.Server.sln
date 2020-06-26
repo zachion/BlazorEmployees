@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorEmployees.Server", "B
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorEmployees.Domain", "..\BlazorEmployees.Domain\BlazorEmployees.Domain.csproj", "{DE59B268-4311-4CB0-9CA7-23611C8C6B2D}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorEmployees.Api", "..\..\..\..\Downloads\getting-started-blazor\03\demos\Demos\End\BethanysPieShopHRM.Server\BethanysPieShopHRM.Api\BlazorEmployees.Api.csproj", "{1E819554-417D-4205-A09A-06B68DCE66A2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{DE59B268-4311-4CB0-9CA7-23611C8C6B2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DE59B268-4311-4CB0-9CA7-23611C8C6B2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DE59B268-4311-4CB0-9CA7-23611C8C6B2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E819554-417D-4205-A09A-06B68DCE66A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E819554-417D-4205-A09A-06B68DCE66A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E819554-417D-4205-A09A-06B68DCE66A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E819554-417D-4205-A09A-06B68DCE66A2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
